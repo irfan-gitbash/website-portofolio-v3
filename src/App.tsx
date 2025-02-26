@@ -43,7 +43,7 @@ function App() {
       <div className="max-w-4xl mx-auto text-center">
         <div className="mb-8">
           <img
-            src="../src/images/Muhammad.jpeg"
+            src="/src/images/Muhammad.jpeg"
             alt="Profile"
             className="w-32 h-32 rounded-full mx-auto border-4 border-white dark:border-gray-800 shadow-lg"
           />
@@ -169,7 +169,7 @@ function App() {
             {/* Project 1 */}
             <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-colors duration-200">
               <img
-                src="../src/images/Full Stack Web Dev .png"
+                src="/src/images/Full Stack Web Dev .png"
                 className={`w-full h-48 object-cover transition-transform duration-300 ${
                   isZoomed ? "scale-125" : "scale-100"
                 }`}
@@ -210,7 +210,7 @@ function App() {
             {/* Project 2 */}
             <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-colors duration-200">
               <img
-                src="../src/images/Javascript Certification.PNG"
+                src="/src/images/Javascript Certification.PNG"
                 className={`w-full h-48 object-cover transition-transform duration-300 ${
                   isZoomed ? "scale-125" : "scale-100"
                 }`}
@@ -245,7 +245,7 @@ function App() {
             {/* Project 3 */}
             <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-colors duration-200">
               <img
-                src="../src/images/Sertifikat Responsive Web Design.PNG"
+                src="/src/images/Sertifikat Responsive Web Design.PNG"
                 className={`w-full h-48 object-cover transition-transform duration-300 ${
                   isZoomed ? "scale-125" : "scale-100"
                 }`}
@@ -282,7 +282,7 @@ function App() {
             {/* Project 4 */}
             <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-colors duration-200">
               <img
-                src="../src/images/Dicoding-web-dasar.png"
+                src="/src/images/Dicoding-web-dasar.png"
                 className={`w-full h-48 object-cover transition-transform duration-300 ${
                   isZoomed ? "scale-125" : "scale-100"
                 }`}
@@ -319,7 +319,7 @@ function App() {
             {/* Project 5 */}
             <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-colors duration-200">
               <img
-                src="../src/images/Solo-learn-Javascript.png"
+                src="/src/images/Solo-learn-Javascript.png"
                 className={`w-full h-48 object-cover transition-transform duration-300 ${
                   isZoomed ? "scale-125" : "scale-100"
                 }`}
@@ -356,7 +356,7 @@ function App() {
             {/* Project 6 */}
             <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-colors duration-200">
               <img
-                src="../src/images/Dicoding-front-end-web-dev.png"
+                src="/src/images/Dicoding-front-end-web-dev.png"
                 className={`w-full h-48 object-cover transition-transform duration-300 ${
                   isZoomed ? "scale-125" : "scale-100"
                 }`}
@@ -393,7 +393,7 @@ function App() {
             {/* Project 7 */}
             <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-colors duration-200">
               <img
-                src="../src/images/dicoding-belajar dasar-pemograman-javascript.png"
+                src="/src/images/dicoding-belajar dasar-pemograman-javascript.png"
                 className={`w-full h-48 object-cover transition-transform duration-300 ${
                   isZoomed ? "scale-125" : "scale-100"
                 }`}
@@ -430,7 +430,7 @@ function App() {
             {/* Project 8 */}
             <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-colors duration-200">
               <img
-                src="../src/images/dicoding-belajar-dasar-ai.png"
+                src="/src/images/dicoding-belajar-dasar-ai.png"
                 className={`w-full h-48 object-cover transition-transform duration-300 ${
                   isZoomed ? "scale-125" : "scale-100"
                 }`}
